@@ -1,14 +1,11 @@
 ## Hi there 👋
-# Welcome to My GitHub! 👋
-
-Hi, I'm **Mahad**
 ---
 
 ## 📊 My Skills
 
-- **Languages**: JavaScript, Python, C++, etc.
-- **Frameworks/Libraries**: React, Node.js, Express, etc.
-- **Tools**: Git, Docker, AWS, Firebase, etc.
+- **Languages**: JavaScript, Python, C++, Sourcepawn
+- **Frameworks/Libraries**: React, Node.js, Express, NextJS
+- **Tools**: Git, Docker, AWS, Firebase
 
 ---
 
@@ -21,7 +18,7 @@ Feel free to reach out to me:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=proobse&show_icons=true&theme=radical)
+![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=proobs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proobs&layout=compact&theme=radical)](https://github.com/proobs)
 
