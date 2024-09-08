@@ -1,16 +1,28 @@
 ## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**proobs/proobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Mahad**
+---
 
-Here are some ideas to get you started:
+## 📊 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, C++, etc.
+- **Frameworks/Libraries**: React, Node.js, Express, etc.
+- **Tools**: Git, Docker, AWS, Firebase, etc.
+
+---
+
+## 💬 Get in Touch
+
+Feel free to reach out to me:
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahad-osman2)
+
+---
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=proobse&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proobs&layout=compact&theme=radical)](https://github.com/proobs)
+
+---
