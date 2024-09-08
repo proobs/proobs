@@ -1,20 +1,5 @@
 ## Hi there 👋
----
-
-## 📊 My Skills
-
-- **Languages**: JavaScript, Python, C++, Sourcepawn
-- **Frameworks/Libraries**: React, Node.js, Express, NextJS
-- **Tools**: Git, Docker, AWS, Firebase
-
----
-
-## 💬 Get in Touch
-
-Feel free to reach out to me:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mahad-osman2)
-
----
+I'm an aspiring software engineer and computer science student!
 
 ## 📈 GitHub Stats
 
